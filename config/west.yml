@@ -6,8 +6,6 @@ manifest:
       url-base: https://github.com/GPeye
     - name: tokyo2006
       url-base: https://github.com/tokyo2006
-    - name: englmaxi
-      url-base: https://github.com/englmaxi
     - name: janpfischer
       url-base: https://github.com/janpfischer
   projects:
@@ -21,9 +19,6 @@ manifest:
     - name: prospector-zmk-module                 # <--- and these
       remote: tokyo2006                          # <---
       revision: micro_spi2  
-    - name: zmk-dongle-display
-      remote: englmaxi
-      revision: main9
     - name: zmk-dongle-screen
       remote: janpfischer
       revision: main
